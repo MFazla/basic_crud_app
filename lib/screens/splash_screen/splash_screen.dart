@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:basic_crud_app/constants/image_constants.dart';
+import 'package:get/get.dart';
 
 class SplashScreen extends StatefulWidget {
   @override
